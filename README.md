@@ -6,4 +6,5 @@ For Woocommerce, the idea is users and developers should:
 3. Enter their unelmapay merchant id on their WooCommerce setting
 
 
-Uenlma Pay Woocommerce Setup video: https://www.unelmacloud.com/drive/s/p1zXg3hhKlmahESYLnf9JcUvgNUvve
+ Unelma Pay Woocommerce Setup video:
+ https://www.unelmacloud.com/drive/s/p1zXg3hhKlmahESYLnf9JcUvgNUvve
